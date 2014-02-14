@@ -112,10 +112,16 @@ body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
 .third-column-table1 {
     width: 340px;
 }
-.fourth-column-table1 {
-    width: 220px;
-}
 /* Present continuous table ends */
+
+/* Present simple table starts */
+.first-column-table2 {
+    width: 370px;
+}
+.second-column-table2 {
+    width: 500px;
+}
+/* Present simple table ends */
 
 
 
