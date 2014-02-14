@@ -31,19 +31,25 @@ body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
 }
 
 .title-third {
+    color: #303030;
     font-size: 130px;
     text-transform: uppercase;
     margin: 0;
     padding: 0;
-    font-weight: 550;
+    font-weight: 400;
     text-align: left;
 }
 
-.title-fourth{
-    font-size: 90px;
-    line-height: 2;
+.title-fourth {
+    color: #808080;
+    font-size: 50px;
+    line-height: 3;
+    font-weight: 600;
+    display: block;
+}
+
+.title-fourth span {
     font-weight: 800;
-    display: block; 
 }
 
 /* COMMON STEP STYLES */
@@ -80,10 +86,18 @@ body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
     font-size: 50px;
     line-height: 1.5;
     font-weight: 400;
+    color: #181818;
 }
 
 .text-style-second span {
     font-weight: 700;
+}
+
+.text-style-third {
+    font-size: 28px;
+    line-height: 1;
+    font-weight: 300;
+    color: #909090;
 }
 
 /* Present continuous table starts */
