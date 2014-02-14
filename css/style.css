@@ -21,13 +21,15 @@ body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
 }
 
 .title .title-first {
-    font-size: 153px;
+    font-size: 120px;
     font-weight: 800;
 }
 
 .title .title-second {
-    font-size: 90px;
-    font-weight: 700;
+    font-size: 62px;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #505050;
 }
 
 .title-third {
