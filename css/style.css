@@ -11,6 +11,53 @@ body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
     opacity: 1;
 }
 
+.title {
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+    width: 1240px;
+    height: 600px;
+    text-align: left;
+}
+
+.title .first-title {
+    font-size: 153px;
+    font-weight: 800;
+}
+
+.title .second-title {
+    font-size: 90px;
+    font-weight: 700;
+}
+
+
+/* COMMON STEP STYLES */
+
+.step {
+    text-align: center;
+    width: 1300px;
+    padding: 20px;
+
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing:    border-box;
+    -ms-box-sizing:     border-box;
+    -o-box-sizing:      border-box;
+    box-sizing:         border-box;
+    
+    -webkit-transition: opacity 1s;
+    -moz-transition:    opacity 1s;
+    -ms-transition:     opacity 1s;
+    -o-transition:      opacity 1s;
+    transition:         opacity 1s;
+    
+    text-shadow: rgba(0,0,0,.01) 0 0 1px; /* Chrome @font-face anti-aliasing fix */
+}
+
+.step:not(.active) { opacity: 0.1; }
+
+
+
+/*
 #hint {
     z-index: 9999;
     position: fixed; top: 0; left: 20px;
@@ -80,34 +127,10 @@ blockquote .author {
 .img-inline { display: inline-block; padding: 12px 3px; }
 .img-link {	text-decoration: none; }
 .img-border { border: solid 1px #aaa; }
-
-
-/* COMMON STEP STYLES */
-
-.step {
-    text-align: center;
-    width: 1000px;
-    padding: 20px;
-
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing:    border-box;
-    -ms-box-sizing:     border-box;
-    -o-box-sizing:      border-box;
-    box-sizing:         border-box;
-    
-    -webkit-transition: opacity 1s;
-    -moz-transition:    opacity 1s;
-    -ms-transition:     opacity 1s;
-    -o-transition:      opacity 1s;
-    transition:         opacity 1s;
-    
-    text-shadow: rgba(0,0,0,.01) 0 0 1px; /* Chrome @font-face anti-aliasing fix */
-}
-
-.step:not(.active) { opacity: 0.1; }
-
+*/
 
 /* STEP SPECIFIC STYLES */
+/*
 #title {width: 1240px; height: 600px; text-align: left; }
 #title-text1 { font-size: 102px; }
 #title-text2 { font-size: 153px; }
@@ -208,4 +231,5 @@ blockquote .author {
 #credits p { font-style: italic; font-size: 30px; margin: 24px; padding: 0; color: #666; }
 #credits p.first { margin-bottom: 45px; font-size: 40px; }
 #credits a { font-style: italic; font-weight: bold; text-decoration: underline; }
+*/
 
