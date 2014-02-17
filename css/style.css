@@ -104,6 +104,14 @@ body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
 .text-style-third span {
     font-weight: 700;
 }
+.text-style-fourth {
+    color: #808080;
+    font-size: 35px;
+    line-height: 2.5;
+    font-weight: 800;
+    display: block;
+}
+
 
 /* Present continuous table starts */
 .first-column-table1 {
@@ -128,24 +136,32 @@ body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
 
 /* Past table starts */
 .first-column-table3 {
-    width: 150px;
+    width: 331px;
 }
 .second-column-table3 {
-    width: 300px;
+    width: 398px;
 }
 .first-column-table4 {
-    width: 150px;
+    width: 100px;
 }
 .second-column-table4 {
-    width: 200px;
+    width: 230px;
 }
-.first-column-table5 {
-    width: 140px;
+.third-column-table4 {
+    width: 80px; 
 }
-.second-column-table5 {
-    width: 160px;
+.fourth-column-table4 {
+    width: 95px;
 }
-
+.fifth-column-table4 {
+    width: 220px;
+}
+.sixth-column-table4 {
+    width: 95px;
+}
+.seventh-column-table4 {
+    width: 130px;
+}
 /* Past simple table ends */
 
 
