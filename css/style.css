@@ -172,6 +172,27 @@ body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
 }
 /* Past simple table ends */
 
+/* Past continuous table starts */
+.first-column-table5 {
+    width: 350px;
+}
+.second-column-table5 {
+    width: 190px;
+}
+/* Past continuous table ends */
+
+/* Present perfect table starts */
+.first-column-table6 {
+    width: 370px;
+}
+.second-column-table6 {
+    width: 165px;
+}
+.third-column-table6 {
+    width: 310px;
+}
+/* Present perfect table ends */
+
 
 
 
