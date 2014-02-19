@@ -85,7 +85,7 @@ body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
 }
 
 .text-style-second {
-    font-size: 50px;
+    font-size: 35px;
     line-height: 1.5;
     font-weight: 400;
     color: #181818;
@@ -105,9 +105,9 @@ body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
     font-weight: 700;
 }
 .text-style-fourth {
-    color: #202020;
-    font-size: 36px;
-    line-height: 1.5;
+    color: #404040;
+    font-size: 28px;
+    line-height: 1;
     font-weight: 400;
     display: block;
 }
@@ -123,22 +123,22 @@ body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
 
 /* Present continuous table starts */
 .first-column-table1 {
-    width: 330px;
+    width: 250px;
 }
 .second-column-table1 {
-    width: 120px;
+    width: 110px;
 }
 .third-column-table1 {
-    width: 340px;
+    width: 260px;
 }
 /* Present continuous table ends */
 
 /* Present simple table starts */
 .first-column-table2 {
-    width: 380px;
+    width: 280px;
 }
 .second-column-table2 {
-    width: 510px;
+    width: 370px;
 }
 /* Present simple table ends */
 
@@ -147,7 +147,7 @@ body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
     width: 331px;
 }
 .second-column-table3 {
-    width: 398px;
+    width: 350px;
 }
 .first-column-table4 {
     width: 100px;
@@ -162,7 +162,7 @@ body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
     width: 95px;
 }
 .fifth-column-table4 {
-    width: 220px;
+    width: 170px;
 }
 .sixth-column-table4 {
     width: 95px;
@@ -174,25 +174,39 @@ body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
 
 /* Past continuous table starts */
 .first-column-table5 {
-    width: 350px;
+    width: 260px;
 }
 .second-column-table5 {
-    width: 190px;
+    width: 150px;
 }
 /* Past continuous table ends */
 
 /* Present perfect table starts */
 .first-column-table6 {
-    width: 370px;
+    width: 270px;
 }
 .second-column-table6 {
-    width: 165px;
+    width: 120px;
 }
 .third-column-table6 {
-    width: 310px;
+    width: 230px;
 }
 /* Present perfect table ends */
 
+/* Present perfect continuous table starts */
+.first-column-table7 {
+    width: 270px;
+}
+.second-column-table7 {
+    width: 130px;
+}
+.third-column-table7 {
+    width: 230px;
+}
+.fourth-column-table7 {
+    width: 140px;
+}
+/* Present perfect continuous table ends */
 
 
 
