@@ -20,12 +20,12 @@ body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
     text-align: left;
 }
 
-.title .title-first {
+.title .title-main-first {
     font-size: 120px;
     font-weight: 800;
 }
 
-.title .title-second {
+.title .title-main-second {
     font-size: 62px;
     font-weight: 500;
     line-height: 1.5;
@@ -34,7 +34,7 @@ body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
 
 .title-third {
     color: #303030;
-    font-size: 130px;
+    font-size: 120px;
     text-transform: uppercase;
     margin: 0;
     padding: 0;
@@ -45,13 +45,13 @@ body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
 .title-fourth {
     color: #808080;
     font-size: 50px;
-    line-height: 3;
-    font-weight: 600;
+    line-height: 2;
+    font-weight: 400;
     display: block;
 }
 
 .title-fourth span {
-    font-weight: 800;
+    font-weight: 600;
 }
 
 /* COMMON STEP STYLES */
@@ -77,47 +77,33 @@ body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
 
 .step:not(.active) { opacity: 0.1; }
 
+
+/* The main style text */
 .text-style-one {
-    font-size: 80px;
-    line-height: 1.5;
-    font-weight: 600;
-    display: block;
-}
-
-.text-style-second {
-    font-size: 35px;
-    line-height: 1.5;
-    font-weight: 400;
-    color: #181818;
-}
-
-.text-style-second span {
-    font-weight: 700;
-}
-
-.text-style-third {
     font-size: 30px;
-    line-height: 1.5;
-    font-weight: 400;
-    color: #181818;
-}
-.text-style-third span {
-    font-weight: 700;
-}
-.text-style-fourth {
-    color: #404040;
-    font-size: 28px;
-    line-height: 1;
-    font-weight: 400;
-    display: block;
-}
-.text-style-fifth {
-    color: #808080;
-    font-size: 22px;
     line-height: 1.5;
     font-weight: 500;
     display: block;
 }
+.text-style-one span {
+    font-weight: 700;
+}
+
+.text-style-two {
+    color: #505050;
+    font-size: 40px;
+    line-height: 1.5;
+    font-weight: 500;
+    display: block;
+}
+.text-style-three {
+    color: #808080;
+    font-size: 26px;
+    line-height: 1.5;
+    font-weight: 400;
+    display: block;
+}
+
 
 
 
