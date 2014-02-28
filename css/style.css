@@ -167,6 +167,27 @@ body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
 }
 /* Past simple tab ends */
 
+/* Past continuous tab starts */
+.tab4-col1 {
+    width: 220px;
+}
+.tab4-col2 {
+    width: 130px;
+}
+/* Past continuous tab ends */
+
+/* Present perfect tab starts */
+.tab5-col1 {
+    width: 230px;
+}
+.tab5-col2 {
+    width: 110px;
+}
+.tab5-col3 {
+    width: 210px;
+}
+/* Present perfect tab ends */
+
 
 
 
