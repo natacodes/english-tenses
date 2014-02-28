@@ -97,9 +97,9 @@ body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
     display: block;
 }
 .text-style-three {
-    color: #808080;
-    font-size: 26px;
-    line-height: 1.5;
+    color: #606060;
+    font-size: 22px;
+    line-height: 1;
     font-weight: 400;
     display: block;
 }
@@ -142,7 +142,28 @@ body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
 
 /* Past simple tab starts */
 .tab3-col1 {
-    width: 500px;
+    width: 100px;
+}
+.tab3-col2 {
+    width: 250px;
+}
+.tab3-col3 {
+    width: 90px;
+}
+.tab3-col4 {
+    width: 130px;
+}
+.tab3-col5 {
+    width: 185px;
+}
+.tab3-col6 {
+    width: 90px;
+}
+.tab3-col7 {
+    width: 350px;
+}
+.tab3-col8 {
+    width: 410px;
 }
 /* Past simple tab ends */
 
