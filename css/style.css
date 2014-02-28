@@ -203,6 +203,18 @@ body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
 }
 /* Present perfect continuous tab ends */
 
+/* Past perfect tab starts */
+.tab7-col1 {
+    width: 230px;
+}
+.tab7-col2 {
+    width: 100px;
+}
+.tab7-col3 {
+    width: 200px;
+}
+/* Past perfect tab ends */
+
 
 
 
