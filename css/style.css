@@ -104,102 +104,47 @@ body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
     display: block;
 }
 
-
-
-
-/* Present continuous table starts */
-.first-column-table1 {
-    width: 250px;
+/* Present continuous tab starts */
+.tab1-col1 {
+    width: 220px;
 }
-.second-column-table1 {
-    width: 110px;
-}
-.third-column-table1 {
-    width: 260px;
-}
-/* Present continuous table ends */
-
-/* Present simple table starts */
-.first-column-table2 {
-    width: 280px;
-}
-.second-column-table2 {
-    width: 370px;
-}
-/* Present simple table ends */
-
-/* Past table starts */
-.first-column-table3 {
-    width: 331px;
-}
-.second-column-table3 {
-    width: 350px;
-}
-.first-column-table4 {
+.tab1-col2 {
     width: 100px;
 }
-.second-column-table4 {
+.tab1-col3 {
     width: 230px;
 }
-.third-column-table4 {
-    width: 80px; 
-}
-.fourth-column-table4 {
-    width: 95px;
-}
-.fifth-column-table4 {
-    width: 170px;
-}
-.sixth-column-table4 {
-    width: 95px;
-}
-.seventh-column-table4 {
-    width: 130px;
-}
-/* Past simple table ends */
+/* Present continuous tab ends */
 
-/* Past continuous table starts */
-.first-column-table5 {
-    width: 260px;
-}
-.second-column-table5 {
-    width: 150px;
-}
-/* Past continuous table ends */
-
-/* Present perfect table starts */
-.first-column-table6 {
-    width: 270px;
-}
-.second-column-table6 {
-    width: 120px;
-}
-.third-column-table6 {
+/* Present simple tab starts */
+.tab2-col1 {
     width: 230px;
 }
-/* Present perfect table ends */
-
-/* Present perfect continuous table starts */
-.first-column-table7 {
-    width: 270px;
+.tab2-col2 {
+    width: 350px;
 }
-.second-column-table7 {
-    width: 130px;
-}
-.third-column-table7 {
+.tab2-col3 {
     width: 230px;
 }
-.fourth-column-table7 {
-    width: 140px;
+.tab2-col4 {
+    width: 155px;
 }
-/* Present perfect continuous table ends */
+.tab2-col5 {
+    width: 575px;
+}
+.tab2-col6 {
+    width: 110px;
+}
+.tab2-col7 {
+    width: 230px;
+}
+/* Present simple tab ends */
 
-
-
-
-
-
-
+/* Past simple tab starts */
+.tab3-col1 {
+    width: 500px;
+}
+/* Past simple tab ends */
 
 
 
