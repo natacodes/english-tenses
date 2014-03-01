@@ -103,6 +103,9 @@ body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
     font-weight: 400;
     display: block;
 }
+.text-style-three span {
+    font-weight: 600;
+}
 
 /* Present continuous tab starts */
 .tab1-col1 {
@@ -212,6 +215,9 @@ body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
 }
 .tab7-col3 {
     width: 200px;
+}
+.tab7-col4 {
+    width: 120px;
 }
 /* Past perfect tab ends */
 
