@@ -5,8 +5,8 @@ body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
 	position: fixed;
 	height: 100%;
 	width: 100%;
-	background: -moz-radial-gradient(50% 50%, farthest-side, #fff, #efefef);
-	background: -webkit-gradient(radial, 50% 50%, 250, 50% 50%, 750, from(#fff), to(#efefef));
+	background: -moz-radial-gradient(50% 50%, farthest-side, #fff, #F6F6F6);
+	background: -webkit-gradient(radial, 50% 50%, 250, 50% 50%, 750, from(#fff), to(#F6F6F6));
 	z-index: 0;
     opacity: 1;
 }
@@ -33,7 +33,7 @@ body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
 }
 
 .title-third {
-    color: #303030;
+    color: #193640;
     font-size: 120px;
     text-transform: uppercase;
     margin: 0;
@@ -43,7 +43,7 @@ body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
 }
 
 .title-fourth {
-    color: #808080;
+    color: #9CAC62;
     font-size: 50px;
     line-height: 2;
     font-weight: 400;
@@ -58,7 +58,7 @@ body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
 
 .step {
     width: 1240px;
-    padding: 20px;
+    /*padding: 20px;*/
 
     -webkit-box-sizing: border-box;
     -moz-box-sizing:    border-box;
@@ -72,10 +72,10 @@ body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
     -o-transition:      opacity 1s;
     transition:         opacity 1s;
     
-    text-shadow: rgba(0,0,0,.01) 0 0 1px; /* Chrome @font-face anti-aliasing fix */
+    /*text-shadow: rgba(0,0,0,.01) 0 0 1px;*/ /* Chrome @font-face anti-aliasing fix */
 }
 
-.step:not(.active) { opacity: 0.1; }
+/*.step:not(.active) { opacity: 0.1; }*/
 
 
 /* The main style text */
@@ -87,17 +87,18 @@ body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
 }
 .text-style-one span {
     font-weight: 700;
+    color: #648A8B;
 }
 
 .text-style-two {
-    color: #505050;
+    color: #37465D;
     font-size: 40px;
     line-height: 1.5;
     font-weight: 500;
     display: block;
 }
 .text-style-three {
-    color: #606060;
+    color: #454445;
     font-size: 22px;
     line-height: 1;
     font-weight: 400;
