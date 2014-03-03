@@ -168,10 +168,13 @@ body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
     width: 90px;
 }
 .tab3-col7 {
-    width: 350px;
+    width: 355px;
 }
 .tab3-col8 {
     width: 410px;
+}
+.tab3-col9 {
+    width: 450px;
 }
 /* Past simple tab ends */
 
