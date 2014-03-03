@@ -87,7 +87,7 @@ body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
 }
 .text-style-one span {
     font-weight: 700;
-    color: #2F859E;
+    color: #0579a9;
 }
 
 .text-style-two {
@@ -98,7 +98,7 @@ body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
     display: block;
 }
 .text-style-two i {
-    color: #2F859E;
+    color: #0579a9;
 }
 
 .text-style-three {
