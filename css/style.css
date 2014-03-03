@@ -33,7 +33,7 @@ body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
 }
 
 .title-third {
-    color: #3D3243;
+    color: #133640;
     font-size: 120px;
     text-transform: uppercase;
     margin: 0;
@@ -43,7 +43,7 @@ body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
 }
 
 .title-fourth {
-    color: #5CBEA5;
+    color: #FF4F4B;
     font-size: 50px;
     line-height: 2;
     font-weight: 400;
@@ -87,18 +87,22 @@ body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
 }
 .text-style-one span {
     font-weight: 700;
-    color: #EB7D75;
+    color: #2F859E;
 }
 
 .text-style-two {
-    color: #3D3243;
+    color: #133640;
     font-size: 40px;
     line-height: 1.5;
     font-weight: 500;
     display: block;
 }
+.text-style-two i {
+    color: #2F859E;
+}
+
 .text-style-three {
-    color: #454445;
+    color: #133640;
     font-size: 22px;
     line-height: 1;
     font-weight: 400;
