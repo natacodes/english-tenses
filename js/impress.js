@@ -266,7 +266,7 @@
                          next = next >= 0 ? steps[ next ] : steps[ steps.length-1 ];
                          break;
                 case 38:   // up
-                         next = steps.indexOf( active ) - 3;
+                         next = steps.indexOf( active ) - 4;
                          next = next >= 0 ? steps[ next ] : steps[ steps.length-1 ];
                          break;
                 case 9:  ; // tab
@@ -277,7 +277,7 @@
                          next = next >= 0 ? steps[ next ] : steps[ steps.length-1 ];
                          break;
                 case 40:   // down
-                         next = steps.indexOf( active ) + 3;
+                         next = steps.indexOf( active ) + 4;
                          next = next < steps.length ? steps[ next ] : steps[ 0 ];
                          break;
                 case 27:   // esc
